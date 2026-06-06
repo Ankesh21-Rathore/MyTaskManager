@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXFileReference section */
-		041C5E762FD48B5D0003D896 /* MyRoutine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyRoutine.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		041C5E762FD48B5D0003D896 /* MyTask.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MyTask.app; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		041C5E782FD48B5D0003D896 /* MyRoutine */ = {
+		041C5E782FD48B5D0003D896 /* MyTask */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = MyRoutine;
+			path = MyTask;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		041C5E6D2FD48B5D0003D896 = {
 			isa = PBXGroup;
 			children = (
-				041C5E782FD48B5D0003D896 /* MyRoutine */,
+				041C5E782FD48B5D0003D896 /* MyTask */,
 				041C5E772FD48B5D0003D896 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -40,7 +40,7 @@
 		041C5E772FD48B5D0003D896 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				041C5E762FD48B5D0003D896 /* MyRoutine.app */,
+				041C5E762FD48B5D0003D896 /* MyTask.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -48,9 +48,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		041C5E752FD48B5D0003D896 /* MyRoutine */ = {
+		041C5E752FD48B5D0003D896 /* MyTask */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 041C5E812FD48B5F0003D896 /* Build configuration list for PBXNativeTarget "MyRoutine" */;
+			buildConfigurationList = 041C5E812FD48B5F0003D896 /* Build configuration list for PBXNativeTarget "MyTask" */;
 			buildPhases = (
 				041C5E722FD48B5D0003D896 /* Sources */,
 				041C5E732FD48B5D0003D896 /* Frameworks */,
@@ -61,13 +61,13 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				041C5E782FD48B5D0003D896 /* MyRoutine */,
+				041C5E782FD48B5D0003D896 /* MyTask */,
 			);
-			name = MyRoutine;
+			name = MyTask;
 			packageProductDependencies = (
 			);
 			productName = MyRoutine;
-			productReference = 041C5E762FD48B5D0003D896 /* MyRoutine.app */;
+			productReference = 041C5E762FD48B5D0003D896 /* MyTask.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -85,7 +85,7 @@
 					};
 				};
 			};
-			buildConfigurationList = 041C5E712FD48B5D0003D896 /* Build configuration list for PBXProject "MyRoutine" */;
+			buildConfigurationList = 041C5E712FD48B5D0003D896 /* Build configuration list for PBXProject "MyTask" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
@@ -99,7 +99,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				041C5E752FD48B5D0003D896 /* MyRoutine */,
+				041C5E752FD48B5D0003D896 /* MyTask */,
 			);
 		};
 /* End PBXProject section */
@@ -313,7 +313,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		041C5E712FD48B5D0003D896 /* Build configuration list for PBXProject "MyRoutine" */ = {
+		041C5E712FD48B5D0003D896 /* Build configuration list for PBXProject "MyTask" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				041C5E7F2FD48B5F0003D896 /* Debug */,
@@ -322,7 +322,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		041C5E812FD48B5F0003D896 /* Build configuration list for PBXNativeTarget "MyRoutine" */ = {
+		041C5E812FD48B5F0003D896 /* Build configuration list for PBXNativeTarget "MyTask" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				041C5E822FD48B5F0003D896 /* Debug */,
